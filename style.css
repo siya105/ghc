@@ -1,0 +1,11 @@
+body
+{
+
+}
+
+canvas
+{
+    height: 400px;
+    position: center;
+    background-color: teal;
+}
